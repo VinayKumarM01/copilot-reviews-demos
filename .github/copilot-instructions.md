@@ -1,6 +1,6 @@
 # Copilot Instructions
 
-## IMPORTANT LINKS
+## IMPORTANT LINKS - MUST READ FOR COPILOT
 [JAVA_DOC_Format.md](../JAVA_DOC_Format.md) - This file defines the standard format for Javadoc comments in this project. 
 
 ## Java Good Practices
