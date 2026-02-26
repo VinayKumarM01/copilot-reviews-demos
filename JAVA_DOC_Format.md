@@ -13,6 +13,23 @@ This document defines the Javadoc conventions for this project. All public and p
 
 ---
 
+## Forall java docks
+- All java docs shoudl start with followign like "+++ This is custome java dock for class/method/field +++" and then followed by the description of the class/method/field.
+```java
+/**
+ * +++ This is custome java dock for class/method/field +++
+ *
+ * Brief one-sentence summary of what this class/method/field does.
+ *
+ * <p>Optional additional detail: explain the purpose, responsibilities,
+ * and any important design decisions or constraints.
+ *
+ * @author  Your Name
+ * @version 1.0
+ * @since   1.0
+ */
+```
+
 ## Class Documentation
 
 Place the Javadoc comment immediately above the class declaration. A class doc must:
