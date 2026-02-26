@@ -1,5 +1,8 @@
 # Copilot Instructions
 
+## IMPORTANT LINKS
+[JAVA_DOC_Format.md](../JAVA_DOC_Format.md) - This file defines the standard format for Javadoc comments in this project. 
+
 ## Java Good Practices
 
 - Target readability first: prefer clear, intention-revealing names for classes, methods, and variables.
