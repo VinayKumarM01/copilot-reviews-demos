@@ -6,6 +6,15 @@ public class Calculator {
         return a + b;
     }
 
+    /**
+     * +++ This is custome java dock for class/method/field +++
+     *
+     * Subtracts the second operand from the first operand.
+     *
+     * @param  a  the minuend value
+     * @param  b  the subtrahend value to subtract from {@code a}
+     * @return    the result of {@code a - b}
+     */
     public int subtract(int a, int b) {
         return a - b;
     }
